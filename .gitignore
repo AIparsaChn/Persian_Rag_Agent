@@ -3,7 +3,7 @@ venv/
 env/
 .venv/
 ENV/
-
+virtual_environment
 # ==========================================
 # Python
 # ==========================================
@@ -103,3 +103,8 @@ htmlcov/
 .ollama/
 ollama_models/virtual_environment
 
+# ==========================================
+# Rest
+# ==========================================
+.virtual_documents/
+4.1.0
